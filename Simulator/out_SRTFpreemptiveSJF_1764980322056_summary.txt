@@ -1,0 +1,6 @@
+avgTAT=7,250
+avgWT=3,000
+cpuUtil=1,00000
+throughput=0
+contextSwitches=4
+makespan=17
