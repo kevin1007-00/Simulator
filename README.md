@@ -1,6 +1,6 @@
 # Simulator
 
-Simulador de Planificación de CPU — Proyecto Técnico
+Simulador de Planificación de CPU
 Descripción General
 
 Este proyecto implementa un simulador interactivo de planificación de CPU escrito en Java utilizando JavaFX para la interfaz gráfica. Su propósito es modelar el funcionamiento de los algoritmos clásicos de planificación de procesos y permitir su comparación mediante métricas de rendimiento.
